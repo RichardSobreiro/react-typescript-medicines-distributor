@@ -1,0 +1,13 @@
+/** @format */
+.product-detail-container {
+  margin: auto;
+  padding: 4rem 1rem;
+  width: 100%;
+}
+
+@media (min-width: 55rem) {
+  .product-detail-container {
+    padding: 4rem 0rem;
+    max-width: 50rem;
+  }
+}

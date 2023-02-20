@@ -1,0 +1,8 @@
+{
+  "short_name": "MedDist Ecommerce",
+  "name": "React 18 Medical Distributor Ecommerce",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
